@@ -1,0 +1,5 @@
+I did not upload the models since they were too large to upload to github.
+
+They keypoint model was trained based on this repo: https://github.com/yastrebksv/TennisCourtDetector
+
+The tennis ball detector training script is included.
